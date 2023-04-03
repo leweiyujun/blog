@@ -8,7 +8,7 @@ module.exports = {
   // 自定义网站 favicon
   head: [['link', { rel: 'icon', href: '/img/logo.png' }]],
   // 根路径，和仓库名一致
-  base: '/',
+  base: '/myblog/',
   // 左上角标题
   title: '乐维的学习文档',
   // markdown 相关配置
